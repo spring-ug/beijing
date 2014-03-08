@@ -24,4 +24,11 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 
 next event Saturday April 5th 周六，4月12日 是下一个活动
 
-Some work in progress can be found on [WIKI](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
+Some work in progress can be found on [wiki](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
+
+Registration via:
+
+- [BSCMG](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/170135002/)
+- [wiki](https://github.com/spring-ug/beijing/wiki)
+- more options to come...
+
