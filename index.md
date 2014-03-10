@@ -20,7 +20,9 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 - QQ group 264930871 Spring中国用户组
 - WeChat/Weixin Spring中国用户组
 
-![](images/spring-ug/QR-Code-SpringUG-China.png)
+<!-- ![](images/spring-ug/QR-Code-SpringUG-China.png) -->
+<a href="images/spring-ug/QR-Code-SpringUG-China.png">
+<img src="images/spring-ug/QR-Code-SpringUG-China.png" width="100" height="100" /></a>
 ![](images/spring-ug/WeiXin-SpringUG-China.png)
 
 #### Events 活动
@@ -30,7 +32,10 @@ next event Saturday April 5th 周六，4月12日 是下一个活动
 Some work in progress can be found on [wiki](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
 - WeChat/Weixin Speakers and organizers
 
-![](images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png)
+
+<!-- ![](images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png) -->
+<a href="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png">
+<img src="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png" width="100" height="100" /></a>
 ![](images/spring-ug/WeiXin-SpringUG-speakers-and-organizers.png)
 
 
