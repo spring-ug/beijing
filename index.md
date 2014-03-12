@@ -27,7 +27,7 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 
 #### Events 活动
 
-next event Saturday April 5th 周六，4月12日 是下一个活动
+next event Saturday April 12th 2pm - 4月12日 周六 2点 是下一个活动
 
 Some work in progress can be found on [wiki](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
 - WeChat/Weixin Speakers and organizers
