@@ -16,7 +16,7 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 
 ### Spring User Group in Beijing 北京Spring用户组
 
-- our site http://spring-ug.github.io/beijing 我们的网站
+- our site <http://spring-ug.github.io/beijing> 我们的网站
 - QQ group 264930871 Spring中国用户组
 - WeChat/Weixin Spring中国用户组
 
