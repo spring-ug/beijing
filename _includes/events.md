@@ -7,7 +7,6 @@ Events 活动
 
 <a href="https://github.com/spring-ug/beijing/wiki">wiki</a></br>
 
-<a href="http://t.cn/8syz14v">注册</a></br>
-
-<img src="/beijing/images/spring-ug/event_2014-03-17_58458792.png"></br>
+<a href="http://t.cn/8syz14v">注册</br>
+<img src="/beijing/images/spring-ug/event_2014-03-17_58458792.png"></a></br>
 
