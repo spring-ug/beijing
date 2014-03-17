@@ -41,6 +41,8 @@ Some work in progress can be found on [wiki](https://github.com/spring-ug/beijin
 
 Registration via:
 
+- <https://yoopay.cn/event/58458792>
+
 <script type="text/javascript" src="https://yoopay.cn/scripts/easyXDM.min.js"></script> <script type="text/javascript"> var REMOTE = "https://yoopay.cn"; var transport = new easyXDM.Socket(/** The configuration */{ remote: REMOTE + "/proxy.html?url=/payment/payment_widget/58458792%3Fwidth%3Dbig%26attendeeList%3Dhideen%26ref%3D", swf: REMOTE + "/scripts/easyxdm.swf", container: "embedded", onMessage: function(message, origin){ this.container.getElementsByTagName("iframe")[0].style.width = "100%"; this.container.getElementsByTagName("iframe")[0].style.height = parseInt(message)  + 20 + "px"; } }); </script> <div id="embedded"></div>
 
 - [BSCMG](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/170135002/)
