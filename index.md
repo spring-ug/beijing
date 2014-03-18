@@ -54,6 +54,6 @@ Registration via:
 
 - [macrochen的博客 - Spring分类文章列表 - ITeye技术网站](http://macrochen.iteye.com/category/56050)
 - 搁iteye. 这个网站比较专业
-- 
+
 
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
