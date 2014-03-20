@@ -30,14 +30,6 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 next event Saturday April 12th 2pm - 4月12日 周六 2点 是下一个活动
 
 Some work in progress can be found on [wiki](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
-- WeChat/Weixin Speakers and organizers
-
-
-<!-- ![](images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png) -->
-<a href="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png">
-<img src="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png" width="100" height="100" /></a>
-![](images/spring-ug/WeiXin-SpringUG-speakers-and-organizers.png)
-
 
 Registration via:
 
@@ -45,8 +37,22 @@ Registration via:
 
 <script type="text/javascript" src="https://yoopay.cn/scripts/easyXDM.min.js"></script> <script type="text/javascript"> var REMOTE = "https://yoopay.cn"; var transport = new easyXDM.Socket(/** The configuration */{ remote: REMOTE + "/proxy.html?url=/payment/payment_widget/58458792%3Fwidth%3Dbig%26attendeeList%3Dhideen%26ref%3D", swf: REMOTE + "/scripts/easyxdm.swf", container: "embedded", onMessage: function(message, origin){ this.container.getElementsByTagName("iframe")[0].style.width = "100%"; this.container.getElementsByTagName("iframe")[0].style.height = parseInt(message)  + 20 + "px"; } }); </script> <div id="embedded"></div>
 
+- WeChat/Weixin Speakers and organizers
+
+<!-- ![](images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png) -->
+<a href="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png">
+<img src="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png" width="100" height="100" /></a>
+![](images/spring-ug/WeiXin-SpringUG-speakers-and-organizers.png)
+
 - [BSCMG](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/170135002/)
 - [wiki](https://github.com/spring-ug/beijing/wiki)
 - more options to come...
+
+
+#### Links
+
+- [macrochen的博客 - Spring分类文章列表 - ITeye技术网站](http://macrochen.iteye.com/category/56050)
+- 搁iteye. 这个网站比较专业
+
 
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
