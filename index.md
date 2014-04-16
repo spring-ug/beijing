@@ -43,10 +43,6 @@ Registration via:
 
 - WeChat/Weixin Speakers and organizers
 
-<!-- ![](images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png) -->
-<a href="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png">
-<img src="images/spring-ug/QR-Code-SpringUG-speakers-and-organizers.png" width="100" height="100" /></a>
-![](images/spring-ug/WeiXin-SpringUG-speakers-and-organizers.png)
 
 - [BSCMG](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/170135002/)
 - [wiki](https://github.com/spring-ug/beijing/wiki)
