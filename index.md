@@ -30,17 +30,17 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 
 #### Events 活动
 
-#### Next 
+#### Next 未来
 
 - next event Sunday May 11th 2pm
 
 - 周日，5月11日 2点钟  是下一个活动</br>
 
-register 报名 https://yoopay.cn/event/82637910
+register 报名 <https://yoopay.cn/event/82637910>
 
-details at https://github.com/spring-ug/beijing/wiki/Spring.io-Beijing-event-May-11th
+details at <https://github.com/spring-ug/beijing/wiki/Spring.io-Beijing-event-May-11th>
 
-##### Past
+##### Past 之前
 
 [![](img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
 
