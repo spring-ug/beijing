@@ -3,6 +3,7 @@ layout: architect_theme
 title: Spring User Group in Beijing 北京Spring用户组
 ---
 
+[Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
 
 ## Spring User Groups
 
@@ -29,9 +30,21 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 
 #### Events 活动
 
+#### Next 未来
+
+- next event Sunday May 11th 2pm
+
+- 周日，5月11日 2点钟  是下一个活动</br>
+
+register 报名 <https://yoopay.cn/event/82637910>
+
+details at <https://github.com/spring-ug/beijing/wiki/Spring.io-Beijing-event-May-11th>
+
+##### Past 之前
+
 [![](img/events/TianAnMen-600x78-Beijing-Spring-UG-event-2014-04-12.jpg)](https://yoopay.cn/event/58458792)
 
-next event Saturday April 12th 2pm - 4月12日 周六 2点 是下一个活动
+past event Saturday April 12th 2pm - 4月12日 周六 2点 是之前的活动
 
 Some work in progress can be found on [wiki](https://github.com/spring-ug/beijing/wiki) 有暂时信息。
 
@@ -55,4 +68,4 @@ Registration via:
 - 搁iteye. 这个网站比较专业
 
 
-[Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
+
