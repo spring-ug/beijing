@@ -1,5 +1,5 @@
 ---
-layout: architect_theme
+layout: architect_theme_beijing
 title: Unix era
 date: 1970-01-01
 categories: [news]
