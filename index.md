@@ -23,6 +23,14 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 - QQ group 264930871 Spring中国用户组
 - WeChat/Weixin Spring中国用户组
 
+
+<ul class="posts">
+  {% for post in site.posts limit:5 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
 <!-- ![](images/spring-ug/QR-Code-SpringUG-China.png) -->
 <a href="images/spring-ug/QR-Code-SpringUG-China.png">
 <img src="images/spring-ug/QR-Code-SpringUG-China.png" width="100" height="100" /></a>
