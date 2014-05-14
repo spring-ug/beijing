@@ -24,12 +24,15 @@ The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframew
 - WeChat/Weixin Spring中国用户组
 
 
+### Posts and news
+
 <ul class="posts">
-  {% for post in site.posts limit:5 %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for post in site.posts limit:10 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="/beijing{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
+[RSS/Atom feeds](http://spring-ug.github.io/beijing/feed.articles.xml)
 
 <!-- ![](images/spring-ug/QR-Code-SpringUG-China.png) -->
 <a href="images/spring-ug/QR-Code-SpringUG-China.png">
