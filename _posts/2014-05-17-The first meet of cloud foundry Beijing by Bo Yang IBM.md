@@ -1,6 +1,6 @@
 ---
 layout: architect_theme_beijing
-title: The first meet of cloud foundry Beijing (by Bo Yang)
+title: The first meet of cloud foundry Beijing by Bo Yang, IBM
 date: 2014-05-17
 categories: [news, events]
 ---
