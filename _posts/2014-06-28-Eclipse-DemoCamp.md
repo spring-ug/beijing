@@ -1,13 +1,13 @@
 ---
 layout: architect_theme_beijing
-title: The first meet of cloud foundry Beijing (by Bo Yang)
-date: 2014-05-15
-categories: [news]
+title: Spring at Eclipse DemoCamp
+date: 2014-06-28
+categories: [news, events]
 ---
 
 ### {{ page.title }}
 
-<p class="meta">2014-05-15</p> by Paul Verest
+<p class="meta">2014-06-28</p> by Paul Verest
 
 Come to here about Spring Tools Suite and Pivotal technologies
 at Eclipse DemoCamp
