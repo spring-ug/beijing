@@ -5,7 +5,7 @@ title: Spring User Group in Beijing 北京Spring用户组
 
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
 
-Next event is planned for Dec 5th 2014, to make it together call 187 01029146 Paul
+Next event is planned for Dec 5th 2014, to make it together call 187 01029146 Paul  
 下一个活动希望在2014年12月5日准备。讲师，志愿者请联系 187 01029146 伟保罗
 
 ## Spring User Groups
