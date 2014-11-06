@@ -5,6 +5,9 @@ title: Spring User Group in Beijing 北京Spring用户组
 
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
 
+Next event is planned for Dec 5th 2014, to make it together call 187 01029146 Paul
+下一个活动希望在2014年12月5日准备。讲师，志愿者请联系 187 01029146 伟保罗
+
 ## Spring User Groups
 
 Spring is set of [open-source technologies](http://www.gopivotal.com/oss)
@@ -12,7 +15,7 @@ Spring is set of [open-source technologies](http://www.gopivotal.com/oss)
  developed by [Pivotal](http://www.gopivotal.com/).
 
 The most well-known of them is [spring framework](https://github.com/spring-projects/spring-framework).
-The latest version is [4.0.1](http://mvnrepository.com/artifact/org.springframework/spring-core)
+The latest version is [4.1.1](http://mvnrepository.com/artifact/org.springframework/spring-core)
  [released](http://spring.io/blog/2013/12/12/announcing-spring-framework-4-0-ga-release) in December 2013. 
 
 ### Spring User Group in Beijing 北京Spring用户组
