@@ -8,6 +8,8 @@ title: Spring User Group in Beijing 北京Spring用户组
 Next event is planned for Dec 5th 2014, to make it together call 187 01029146 Paul  
 下一个活动希望在2014年12月5日准备。讲师，志愿者请联系 187 01029146 伟保罗
 
+Register at 报名在 <https://yoopay.cn/event/88917198>
+
 ## Spring User Groups
 
 Spring is set of [open-source technologies](http://www.gopivotal.com/oss)
