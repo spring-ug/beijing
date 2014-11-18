@@ -3,7 +3,8 @@ layout: architect_theme
 title: Spring User Group in Beijing 北京Spring用户组
 ---
 
-[Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md)
+[Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md),
+[Ask question](https://github.com/spring-ug/beijing/issues)
 
 ###　“你来说”活动 12月5日 "Сome ant Talk" meet-up
 
