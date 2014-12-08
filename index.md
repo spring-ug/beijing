@@ -11,6 +11,8 @@ title: Spring User Group in Beijing 北京Spring用户组
 Next meeting is planned for Friday Jan 9th 2015, to make it together call 187 01029146 Paul  
 下一个见面希望在2015年1月9日准备。讲师，志愿者请联系 187 01029146 伟保罗
 
+[meetup.com link for registration](http://www.meetup.com/BeijingEntrepreneurs/events/219124667/)
+
 ###　“你来说”活动 12月5日 "Сome ant Talk" meet-up
 
 Next event is planned for Dec 5th 2014, to make it together call 187 01029146 Paul  
