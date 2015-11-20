@@ -6,6 +6,8 @@ title: Spring User Group in Beijing 北京Spring用户组
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md),
 [Ask question](https://github.com/spring-ug/beijing/issues)
 
+<a href="http://coderetreat-china.github.io/shenzhen"><img src="http://coderetreat-china.github.io/images/logo/cnlogo.png"/></a>
+
 ###　“你来说”活动 1月9日 "Сome ant Talk" #2 meet-up
 
 Next meeting is planned for Friday Jan 9th 2015, to make it together call 187 01029146 Paul  
