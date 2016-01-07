@@ -8,8 +8,11 @@ title: Spring User Group in Beijing 北京Spring用户组
 
 # 2016
 
+用上面的链接建议主题|
+suggest topics by links above
+
 - [北京 vert.x](http://vertxer.org/)
-- [深圳 Java User GRoup](http://szjug.github.io/)
+- [深圳 Java User Group](http://szjug.github.io/)
 - add your technology group...
 
 # 2015
