@@ -6,6 +6,14 @@ title: Spring User Group in Beijing 北京Spring用户组
 [Edit this page](https://github.com/spring-ug/beijing/edit/gh-pages/index.md),
 [Ask question](https://github.com/spring-ug/beijing/issues)
 
+# 2016
+
+- [北京 vert.x](http://vertxer.org/)
+- [深圳 Java User GRoup](http://szjug.github.io/)
+- add your technology group...
+
+# 2015
+
 <a href="http://coderetreat-china.github.io"><img src="http://coderetreat-china.github.io/images/logo/cnlogo.png"/></a>
 
 ###　“你来说”活动 1月9日 "Сome ant Talk" #2 meet-up
@@ -14,6 +22,8 @@ Next meeting is planned for Friday Jan 9th 2015, to make it together call 187 01
 下一个见面希望在2015年1月9日准备。讲师，志愿者请联系 187 01029146 伟保罗
 
 [meetup.com link for registration](http://www.meetup.com/BeijingEntrepreneurs/events/219124667/)
+
+# 2014
 
 ###　“你来说”活动 12月5日 "Сome ant Talk" meet-up
 
